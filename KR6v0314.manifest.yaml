@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6v0314/v1
+canonical_location: https://kanripo.org/bkk/KR6v0314/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 南傳羯臘摩經
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B07/B07n0015.xml
+    old_id: B07n0015
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0314_000.yaml, hash: 'sha256:5872b68588d141993bee6d1aaf449860415c1e01238ad83de48c5de36f7b5f38'}
+  - {seq: 1, filename: KR6v0314_001.yaml, hash: 'sha256:c838b0bdb3dca784632d91e56a96a513d1d34154ef5505cc9b20c92133c18666'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0314_001.markers.yaml, hash: 'sha256:c2f0337052f54a3d7474ef693cfc40cda644ba567ea4a74be81af9a188e0dd5b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0314_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 957
+  label: 南傳羯臘摩經
+  type: juan
+  level: 1
+hash: sha256:c2cf605917127f6bbcbd0cde629ca6c45ba0314e0e25727f11c8965aee9070a9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

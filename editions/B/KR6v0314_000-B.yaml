@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0314/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南傳羯臘摩經
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B07/B07n0015.xml
+    old_id: B07n0015
+hash: sha256:5872b68588d141993bee6d1aaf449860415c1e01238ad83de48c5de36f7b5f38
