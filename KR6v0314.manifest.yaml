@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0314_000.yaml, hash: 'sha256:5872b68588d141993bee6d1aaf449860415c1e01238ad83de48c5de36f7b5f38'}
-  - {seq: 1, filename: KR6v0314_001.yaml, hash: 'sha256:c838b0bdb3dca784632d91e56a96a513d1d34154ef5505cc9b20c92133c18666'}
+  - {seq: 1, filename: KR6v0314_001.yaml, hash: 'sha256:2883db678b67c5a1f0627270be2b2835b045e3d3c5df15bf0af90d8a5eba7a2a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0314_001.markers.yaml, hash: 'sha256:c2f0337052f54a3d7474ef693cfc40cda644ba567ea4a74be81af9a188e0dd5b'}
+  - {seq: 0, role: markers, filename: assets/KR6v0314_000.markers.yaml, hash: 'sha256:e2704221f89b0c11982739b37d4f3135453b26005e9397611942912cbf7e536e'}
+  - {seq: 1, role: markers, filename: assets/KR6v0314_001.markers.yaml, hash: 'sha256:a6f74e1afe692c7200ffd5576f5a86de19cb0c7d12ad646442e47ee2449fcfd3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,7 +34,4 @@ table_of_contents:
   label: 南傳羯臘摩經
   type: juan
   level: 1
-hash: sha256:c2cf605917127f6bbcbd0cde629ca6c45ba0314e0e25727f11c8965aee9070a9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:321a739d1013bf442ed1c9d188ee87a7bc465edd8f0e0620ad63e991fa1d22be
